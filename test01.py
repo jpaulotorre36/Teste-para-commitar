@@ -8,5 +8,6 @@ if n/2 == 0:
 else:
     print("Número ímpar")
 
+print("super simples")
 print("Obrigado!")
 
