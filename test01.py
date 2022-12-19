@@ -3,10 +3,10 @@
 n = eval(input("digite um numero: "))
 
 if n/2 == 0:
-    print("Número par")
+    print("Número par!")
 
 else:
-    print("Número ímpar")
+    print("Número ímpar!")
 
 print("Obrigado!")
 
